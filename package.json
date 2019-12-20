@@ -1,0 +1,23 @@
+{
+  "name": "koa-validator-plugin",
+  "version": "1.0.1",
+  "description": "a plugin for validating your parameters easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "plugin",
+    "validate",
+    "parameter",
+    "koa2",
+    "validator"
+  ],
+  "author": "rex",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "validator": "^12.1.0"
+  }
+}
