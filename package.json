@@ -1,6 +1,6 @@
 {
   "name": "koa-validator-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a plugin for validating your parameters easily",
   "main": "index.js",
   "scripts": {
